@@ -26,3 +26,7 @@ body {
     color: rgb(112, 162, 255);
     font-size: larger;
 }
+
+.EVERYTHING {
+    place-items: center;
+}
